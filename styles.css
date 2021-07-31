@@ -1,0 +1,20 @@
+body {
+    background-color: #02bd75;
+}
+hr {
+    border-color:gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 75%;
+}   
+h1 {
+    color: blueviolet;
+    font-family: fantasy;
+    font-size: 34px;
+}
+h3 {
+    color: deeppink;
+    font-family: monospace;
+    font-size: 22px;
+}
